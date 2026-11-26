@@ -275,3 +275,10 @@ releases.
 ## License
 
 MIT
+
+## Architecture
+
+
+![django-fetch-guard architecture map](docs/images/django-fetch-guard-architecture.png)
+
+[Architecture notes](docs/architecture.md) · [Editable SVG](docs/images/django-fetch-guard-architecture.svg)
